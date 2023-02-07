@@ -1,4 +1,4 @@
-package Ex01;
+package Lista;
 
 import java.util.ArrayList;
 import java.util.Iterator;
